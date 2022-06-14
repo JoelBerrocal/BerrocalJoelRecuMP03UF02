@@ -28,6 +28,3 @@ public class Exercici4 {
         }
     } 
 }
-public class Exercici4 {
-
-}
