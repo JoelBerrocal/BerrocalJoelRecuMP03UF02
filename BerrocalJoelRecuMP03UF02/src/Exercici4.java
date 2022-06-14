@@ -13,9 +13,9 @@ public class Exercici4 {
         while (numero != 0) {
 
             if (numero > 0) {
-                System.out.print("Positivo");
+                System.out.print("Positiu");
             } else {
-                System.out.print("Negativo");
+                System.out.print("Negatiu");
             }
             if(numero % 2 == 0){
                 System.out.println(" Par");
@@ -23,7 +23,7 @@ public class Exercici4 {
                 System.out.println(" Impar");
             }
 
-            System.out.print("Introduce un número (0 para acabar): ");                                  
+            System.out.print("Introdueix (0 para acabar): ");                                  
             numero = scanner.nextInt();
         }
     } 
